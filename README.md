@@ -1,5 +1,5 @@
 # To-List_Using_React
-The purpose of this project is to provide a simple and straightforward example of how to implement a to-do list using React.js. It includes several components that can be used to add, delete, and modify tasks, making it easy to manage your daily tasks.
+The purpose of this project is to provide a simple and straightforward example of how to implement a to-do list using React.js.
 This project was created with CodeSandbox.
 
 ## Installation
