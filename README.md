@@ -5,8 +5,10 @@ This project was created with CodeSandbox.
 ## Installation
 To get started with the project, follow these steps:
 
-Clone the repository to your local machine using git clone https://github.com/RajlaxmiMeshram/To-List_Using_React.git
+Clone the repository to your local machine using git clone 'https://github.com/RajlaxmiMeshram/To-List_Using_React.git'
+
 Navigate to the project directory using cd 'To-List_Using_React'
+
 Install the dependencies by running 'npm install'
 
 ## Usage
